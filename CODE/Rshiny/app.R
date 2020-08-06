@@ -30,7 +30,7 @@ library(jsonlite)
 ################
 
 # Keep this to yourselves! 
-ggmap::register_google(key = "AIzaSyDF-j6jMk4l6NRFlv_vga2f6e7SHxxfgeQ")
+ggmap::register_google(key = "")
 
 # use readLines to get the data
 dat <- readLines("winemag-lngs-lats-precip-temp.csv")
