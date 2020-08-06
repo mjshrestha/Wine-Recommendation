@@ -19,13 +19,13 @@ https://drive.google.com/open?id=1R3xpXtmFgy3Q_wbzwFXUFXII_JAFsG6Z
 
 2. winemag-data-139k-v2.csv (download to /Code/SentimentAnalysis/input) 
 https://drive.google.com/open?id=1BZgE7d_b-tUx-7hNwiOGs6D_WmyD3V8M
-Code for scraping data: 
-[Code](https://github.com/mjshrestha/web_scraper)]
+- Code for scraping data: 
+[[Code](https://github.com/mjshrestha/web_scraper)]
 
 3. winemag-lngs-lats-precip-temp.csv (download to /Code/Rshiny) 
 https://drive.google.com/open?id=13P5aSj_MIjjl4IXB0ll2S3wXTMQlk7mu
-Code for lat/long and climate data:
-[Ref Code](https://github.com/mjshrestha/topojson)] and [[Csv code](https://github.com/mjshrestha/data/tree/master/Scripts)]
+- Code for lat/long and climate data:
+[[Ref Code](https://github.com/mjshrestha/topojson)] and [[Csv code](https://github.com/mjshrestha/data/tree/master/Scripts)]
 
 ##### Setup R Environment
 1. Install R and RStudio - https://www.rstudio.com/products/RStudio/
