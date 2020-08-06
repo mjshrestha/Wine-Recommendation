@@ -7,7 +7,7 @@ The RShiny application consists of a web GUI in which to interact with the vario
 
 The /Code/Scripts directory contains several scripts that were used for cleaning and modifying the dataset as described in the report. Each takes in a source csv and outputs a csv with appended columns. These scripts are included for reference but do not need to executed in order to run the application.
 
-The /Doc directory contains our final report and presentation poster
+The /Doc directory contains final report and presentation poster
 
 ### INSTALLATION
 
@@ -17,10 +17,10 @@ There are three larger data files that must be downloaded in order to run the ap
 1. sa.mdl (download to /Code/SentimentAnalysis)
 https://drive.google.com/open?id=1R3xpXtmFgy3Q_wbzwFXUFXII_JAFsG6Z
 
-2. winemag-data-139k-v2.csv (download to /Code/SentimentAnalysis/input)
+2. winemag-data-139k-v2.csv (download to /Code/SentimentAnalysis/input) [Code](https://github.com/mjshrestha/web_scraper)]
 https://drive.google.com/open?id=1BZgE7d_b-tUx-7hNwiOGs6D_WmyD3V8M
 
-3. winemag-lngs-lats-precip-temp.csv (download to /Code/Rshiny)
+3. winemag-lngs-lats-precip-temp.csv (download to /Code/Rshiny) [Ref Code](https://github.com/mjshrestha/topojson)] and [[Csv code](https://github.com/mjshrestha/data/tree/master/Scripts)]
 https://drive.google.com/open?id=13P5aSj_MIjjl4IXB0ll2S3wXTMQlk7mu
 
 ##### Setup R Environment
