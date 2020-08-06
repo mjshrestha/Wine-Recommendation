@@ -1,0 +1,9 @@
+flask
+flask_restful
+sklearn
+pandas
+numpy
+scipy
+matplotlib
+nltk
+wordcloud

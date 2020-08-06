@@ -1,0 +1,241 @@
+﻿country_id,country,winery,region_1,region_2,province,best_wine_with_low_price,best_wine_variety,best_wine_price,best_wine_points
+USA,United States,Patricia Green Cellars,Ribbon Ridge,Willamette Valley,Oregon,Patricia Green Cellars 2016 Estate Vineyard Bonshaw Block Pinot Noir (Ribbon Ridge),Pinot Noir,60,100
+AUT,Austria,Sattlerhof,N/A,,Südsteiermark,Sattlerhof 2013 Trockenbeerenauslese Sauvignon Blanc (Südsteiermark),Sauvignon Blanc,65,100
+ITA,Italy,Paolo Scavino,Barolo,,Piedmont,Paolo Scavino 2010 Bric dël Fiasc  (Barolo),Nebbiolo,100,100
+FRA,France,Château Léoville Barton,Saint-Julien,,Bordeaux,Château Léoville Barton 2010  Saint-Julien,Bordeaux-style Red Blend,150,100
+AUS,Australia,Chambers Rosewood Vineyards,Rutherglen,,Victoria,Chambers Rosewood Vineyards NV Rare Muscat (Rutherglen),Muscat,350,100
+PRT,Portugal,Casa Ferreirinha,N/A,,Douro,Casa Ferreirinha 2008 Barca-Velha Red (Douro),Portuguese Red,450,100
+ESP,Spain,Viña Sastre,Ribera del Duero,,Northern Spain,Viña Sastre 2006 Pesus  (Ribera del Duero),Tempranillo Blend,750,100
+DEU,Germany,Robert Weil,N/A,,Rheingau,Robert Weil 2015 Kiedrich Gräfenberg Trockenbeerenauslese Riesling (Rheingau),Riesling,775,98
+HUN,Hungary,Royal Tokaji,N/A,,Tokaji,Royal Tokaji 2013 6 Puttonyos Aszú Gold Label  (Tokaji),White Blend,80,97
+ARG,Argentina,Bodega Catena Zapata,Mendoza,,Mendoza Province,Bodega Catena Zapata 2006 Nicasia Vineyard Malbec (Mendoza),Malbec,120,97
+GBR,England,Wiston Estate Winery,N/A,,England,Wiston Estate Winery 2009 Cuvée Brut  (England),Champagne Blend,50,96
+CAN,Canada,Reif Estate,Niagara River,,Ontario,Reif Estate 2015 Icewine Vidal (Niagara River),Vidal,60,96
+ZAF,South Africa,De Toren,N/A,,Stellenbosch,De Toren 2015 Book 17 XVII Red (Stellenbosch),Bordeaux-style Red Blend,330,96
+NZL,New Zealand,Rippon,N/A,,Central Otago,Rippon 2016 Mature Vine Lake Wanaka Riesling (Central Otago),Riesling,36,95
+CHL,Chile,Valdivieso,N/A,,Central Valley,Valdivieso NV Caballo Loco Number Sixteen Red (Central Valley),Red Blend,70,95
+ISR,Israel,Recanati,N/A,,Galilee,Recanati 2011 Reserve David Vineyard Cabernet Sauvignon (Galilee),Cabernet Sauvignon,25,94
+GRC,Greece,Dionysos,N/A,,Mantinia,Dionysos 2014 Moschofilero (Mantinia),Moschofilero,16,93
+MAR,Morocco,Ouled Thaleb,N/A,,Zenata,Ouled Thaleb 2012 Médaillon Red (Zenata),Red Blend,18,93
+IND,India,Sula,N/A,,Nashik,Sula 2011 Dindori Reserve Shiraz (Nashik),Shiraz,20,93
+URY,Uruguay,Garzón,N/A,,Uruguay,Garzón 2015 Balasto Red (Uruguay),Red Blends,120,93
+CHN,China,Ao Yun,N/A,,China,Ao Yun 2014 Red (China),Red Blends,300,93
+GEO,Georgia,Alaverdi Monastery Cellar,N/A,,Kakheti,Alaverdi Monastery Cellar 2010 Qvevri Traditional Kakhuri Dry Unfiltered Amber Wine Rkatsiteli (Kakheti),Rkatsiteli,25,92
+ROU,Romania,Cramele Recas,N/A,,Recas,Cramele Recas 2013 Conocul Ambrozy Sauvignon Blanc (Recas),Sauvignon Blanc,28,92
+TUR,Turkey,Kavaklidere,N/A,,Aegean,Kavaklidere 2010 Pendore Öküzgözü (Aegean),Okuzgozu,33,92
+SVN,Slovenia,Movia,N/A,,Brda,Movia 2007 Veliko White (Brda),White Blend,50,92
+MEX,Mexico,Viñas de Garza,N/A,,Valle de Guadalupe,Viñas de Garza 2007 Amado IV Red (Valle de Guadalupe),Red Blend,54,92
+LBN,Lebanon,Ixsir,N/A,,Lebanon,Ixsir 2009 Altitudes Red (Lebanon),Red Blend,20,91
+BGR,Bulgaria,Chateau Burgozone,N/A,,Danube River Plains,Chateau Burgozone 2012 Collection Chardonnay (Danube River Plains),Chardonnay,23,91
+ARM,Armenia,Van Ardi,N/A,,Armenia,Van Ardi 2015 Reserve Estate Bottled Areni (Armenia),Areni,24,91
+MDA,Moldova,Purcari,N/A,,Moldova,Purcari 2013 Freedom Blend Red (Moldova),Red Blend,25,91
+HRV,Croatia,Trapan,N/A,,Istria,Trapan 2013 Terra Mare Teran (Istria),Teran,33,91
+CHE,Switzerland,Château d'Auvernier,N/A,,Neuchâtel,Château d'Auvernier 2012 White (Neuchâtel),White Blend,21,90
+LUX,Luxembourg,Domaines Vinsmoselle,N/A,,Moselle Luxembourgeoise,Domaines Vinsmoselle 2014 Bech-Kleinmacher Naumberg Grand Premier Cru Auxerrois (Moselle Luxembourgeoise),Auxerrois,22,90
+CYP,Cyprus,Loel,N/A,,Commandaria,Loel 1989 Alasia Red (Commandaria),Red Blends,18,89
+MKD,Macedonia,Stobi,N/A,,Tikves,Stobi 2011 Veritas Vranec (Tikves),Vranec,20,89
+CZE,Czech Republic,Sonberk,N/A,,Moravia,Sonberk 2010 Ryzlink Rýnský (Moravia),Ryzlink Rýnský,40,89
+SRB,Serbia,Budimir,N/A,,Župa,Budimir 2007 Svb Rosa Red (Župa),Red Blend,42,89
+BRA,Brazil,Cave Geisse,N/A,,Pinto Bandeira,Cave Geisse 2012 Blanc de Blancs Brut Chardonnay (Pinto Bandeira),Chardonnay,45,89
+UKR,Ukraine,Koblevo,N/A,,Ukraine,Koblevo NV Reserve Riesling (Ukraine),Riesling,9,88
+BIH,Bosnia and Herzegovina,Winery ?itluk,N/A,,Mostar,Winery ?itluk 2011 Blatina (Mostar),Blatina,12,88
+ALB,Albania,Arbëri,N/A,,Mirditë,Arbëri 2011 Kallmet (Mirditë),Kallmet,20,88
+KWT,Kosovo,Stone Castle,N/A,,Rahoveci Valley,Stone Castle 2013 Reserve Cabernet Sauvignon (Rahoveci Valley),Cabernet Sauvignon,20,88
+SVK,Slovakia,Château Bela,N/A,,Muzla,Château Bela 2008 Riesling (Muzla),Riesling,16,87
+PER,Peru,Intipalka,N/A,,Ica,Intipalka 2012 Valle del Sol Red (Ica),Red Blend,17,86
+EGY,Egypt,Sahara Vineyards,N/A,,Egypt,Sahara Vineyards 2008 Caspar Blanc de Noirs Grenache (Egypt),Grenache,N/A,84
+AFG,Afghanistan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+218,Akrotiri,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DZA,Algeria,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+202,American Samoa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+198,Andorra,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGO,Angola,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+221,Anguilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ATA,Antarctica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+197,Antigua and Barbuda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+192,Aruba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AZE,Azerbaijan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BHS,"Bahamas, The",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+163,Bahrain,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BGD,Bangladesh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+180,Barbados,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BLR,Belarus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BEL,Belgium,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BLZ,Belize,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BEN,Benin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+201,Bermuda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BTN,Bhutan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BOL,Bolivia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BWA,Botswana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+215,British Virgin Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BRN,Brunei,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BFA,Burkina Faso,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MMR,Burma,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BDI,Burundi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KHM,Cambodia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CMR,Cameroon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+169,Cape Verde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+206,Cayman Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CAF,Central African Republic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TCD,Chad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+232,Christmas Island,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+236,Cocos (Keeling) Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+COL,Colombia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+160,Comoros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+COD,"Congo, Democratic Republic of the",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+COG,"Congo, Republic of the",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+223,Cook Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CRI,Costa Rica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CIV,Cote d'Ivoire,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CUB,Cuba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DNK,Denmark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+219,Dhekelia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DJI,Djibouti,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DOM,Dominica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DOM,Dominican Republic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ECU,Ecuador,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SLV,El Salvador,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GNQ,Equatorial Guinea,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ERI,Eritrea,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+EST,Estonia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ETH,Ethiopia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+FLK,Falkland Islands (Islas Malvinas),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+208,Faroe Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+FJI,Fiji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+FIN,Finland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+179,French Polynesia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ATF,French Southern and Antarctic Lands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GAB,Gabon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GMB,"Gambia, The",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+149,Gaza Strip,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GHA,Ghana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+214,Gibraltar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GRL,Greenland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+190,Grenada,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GTM,Guatemala,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+204,Guernsey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GIN,Guinea,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GNB,Guinea-Bissau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+GUY,Guyana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HTI,Haiti,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+235,Holy See (Vatican City),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HND,Honduras,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HKG,Hong Kong,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ISL,Iceland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+IDN,Indonesia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+IRN,Iran,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+IRQ,Iraq,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+IRL,Ireland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+199,Isle of Man,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+JAM,Jamaica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+JPN,Japan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+195,Jersey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+JOR,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KAZ,Kazakhstan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KEN,Kenya,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+194,Kiribati,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PRK,"Korea, North",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KOR,"Korea, South",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KWT,Kuwait,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+KGZ,Kyrgyzstan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LAO,Laos,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LVA,Latvia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LSO,Lesotho,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LBR,Liberia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LBY,Libya,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+210,Liechtenstein,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LTU,Lithuania,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+168,Macau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MDG,Madagascar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MWI,Malawi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MYS,Malaysia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+174,Maldives,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MLI,Mali,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+173,Malta,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+203,Marshall Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MRT,Mauritania,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+153,Mauritius,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+181,Mayotte,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+191,"Micronesia, Federated States of",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+212,Monaco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MNG,Mongolia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MNE,Montenegro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+228,Montserrat,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MOZ,Mozambique,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NAM,Namibia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+222,Nauru,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NPL,Nepal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NLD,Netherlands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+183,Netherlands Antilles,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NCL,New Caledonia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NIC,Nicaragua,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NER,Niger,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NGA,Nigeria,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+234,Niue,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+230,Norfolk Island,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+209,Northern Mariana Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NOR,Norway,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+OMN,Oman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PAK,Pakistan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+217,Palau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PAN,Panama,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PNG,Papua New Guinea,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PRY,Paraguay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PHL,Philippines,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+237,Pitcairn Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+POL,Poland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PRI,Puerto Rico,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+QAT,Qatar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+RUS,Russia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+RWA,Rwanda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+226,Saint Barthelemy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+225,"Saint Helena, Ascension, and Tristan da Cunha",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+207,Saint Kitts and Nevis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+187,Saint Lucia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+213,Saint Martin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+227,Saint Pierre and Miquelon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+193,Saint Vincent and the Grenadines,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+185,Samoa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+211,San Marino,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+186,Sao Tome and Principe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SAU,Saudi Arabia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SEN,Senegal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+196,Seychelles,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SLE,Sierra Leone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGP,Singapore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SLB,Solomon Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SOM,Somalia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SSD,South Sudan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LKA,Sri Lanka,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SDN,Sudan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SUR,Suriname,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+231,Svalbard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SWZ,Swaziland,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SWE,Sweden,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SYR,Syria,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TWN,Taiwan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TJK,Tajikistan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TZA,Tanzania,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+THA,Thailand,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TLS,Timor-Leste,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TGO,Togo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+233,Tokelau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+188,Tonga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TTO,Trinidad and Tobago,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TUN,Tunisia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TKM,Turkmenistan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+216,Turks and Caicos Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+224,Tuvalu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UGA,Uganda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ARE,United Arab Emirates,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UZB,Uzbekistan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VUT,Vanuatu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VEN,Venezuela,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VNM,Vietnam,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+189,Virgin Islands,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+220,Wallis and Futuna,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PSE,West Bank,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ESH,Western Sahara,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+YEM,Yemen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ZMB,Zambia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ZWE,Zimbabwe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
