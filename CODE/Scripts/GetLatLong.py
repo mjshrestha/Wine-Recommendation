@@ -8,7 +8,7 @@ from geopy import GoogleV3
 from geopy.exc import GeopyError
 
 csv_name = 'winemag-data-185k-03272019.csv'
-api_key = 'AIzaSyDF-j6jMk4l6NRFlv_vga2f6e7SHxxfgeQ'
+api_key = ''
 
 geocoder = GoogleV3(api_key=api_key)
 request_count = 0
